@@ -21,8 +21,6 @@ private slots:
 
 private:
     Ui::MainWindow *ui;
-
-    // ADD YOUR CODE
 };
 
 #endif // MAINWINDOW_H
